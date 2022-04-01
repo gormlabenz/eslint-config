@@ -28,7 +28,7 @@ module.exports = {
     'vue/no-setup-props-destructure': 'off',
 
     'vue/component-tags-order': ['error', {
-      order: ['script', 'template', 'style'],
+      order: ['template', 'script', 'style'],
     }],
   },
 }
